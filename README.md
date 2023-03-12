@@ -32,3 +32,5 @@
 <a href="https://wa.me/message/62MQOHNM4RE5M1" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%a4c639?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/Andrewhomero/andrewhomero/blod/output/github-contribution-grid-snake.svg)
