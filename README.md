@@ -1,8 +1,6 @@
 ### Olá! tudo bem? sou o Andrew Homero 👋
 
-- 🔭 Trabalho com front-end
 - 🌱 Estudando Typescript e React
-- 😄 Pronouns: ele/dele
 
 <a href="https://github.com/andrewhomero">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewhomero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
