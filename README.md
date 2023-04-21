@@ -1,4 +1,4 @@
-### Olá! tudo bem? sou o Andrew Homero 👋
+### Olá! tudo bem? sou o Andre Homero 👋
 
 - 🌱 Estudando Typescript e React
 
